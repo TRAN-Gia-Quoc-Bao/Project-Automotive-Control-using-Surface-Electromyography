@@ -1,6 +1,4 @@
-# Project: Automotive control using surface electromyography
-My work during the research internship "Automotive Control using Surface Electromyography" at The University of Tokyo (UTokyo/Todai), June-September 2020.
+# Machine learning methods
+The aim here is to classify which sEMG signals correspond to vehicle braking so as to build a human-machine interface using these signals.
 
-It concerns a human-machine interface for vehicle driving assistance using surface electromyography (sEMG) signals. The two main tasks are signal processing and signal classification using machine learning.
-
-![UTokyo logo](https://github.com/TRAN-Gia-Quoc-Bao/Project-Automotive-Control-using-Surface-Electromyography/blob/main/UTokyo.png)
+I tried with k-NN, LSTM and some initial attempts to use reinforcement learning (RL). RL with a normal network does not work as the network's structure is not suited for time-series data. I made a first attempt to use RL combined with a LSTM network (in progress). I will get back when I have time.
