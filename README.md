@@ -3,6 +3,6 @@ My work during the research internship "Automotive Control using Surface Electro
 
 It concerns a human-machine interface for vehicle driving assistance using surface electromyography (sEMG) signals. The two main tasks are signal processing and signal classification using machine learning.
 
-More updates will come soon.
+More updates will be added.
 
 ![UTokyo logo](https://github.com/TRAN-Gia-Quoc-Bao/Project-Automotive-Control-using-Surface-Electromyography/blob/main/UTokyo.jpg)
