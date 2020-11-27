@@ -5,4 +5,4 @@ It concerns a human-machine interface for vehicle driving assistance using surfa
 
 More updates will come soon.
 
-![UTokyo logo](https://github.com/TRAN-Gia-Quoc-Bao/Project-Automotive-Control-using-Surface-Electromyography/blob/main/UTokyo.png)
+![UTokyo logo](https://github.com/TRAN-Gia-Quoc-Bao/Project-Automotive-Control-using-Surface-Electromyography/blob/main/UTokyo.jpg)
