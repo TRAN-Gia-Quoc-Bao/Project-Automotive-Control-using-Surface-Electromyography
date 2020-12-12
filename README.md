@@ -7,4 +7,6 @@ This research work resulted in a paper accepted to [AHFE 2021](http://2021.ahfe.
 
 More updates will be added.
 
+By: Gia Quoc Bao TRAN 
+
 ![UTokyo logo](https://github.com/TRAN-Gia-Quoc-Bao/Project-Automotive-Control-using-Surface-Electromyography/blob/main/UTokyo.jpg)
