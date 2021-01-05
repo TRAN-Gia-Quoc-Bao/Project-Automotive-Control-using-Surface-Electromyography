@@ -7,7 +7,7 @@ This research work resulted in the following conference paper:
 
 **Gia Quoc Bao Tran**, Zheng Wang, Yusuke Koge, Kimihiko Nakano. Surface Electromyography-controlled Automotive Braking Assistance System using Deep Learning. 12th International Conference on Applied Human Factors and Ergonomics, New York, USA, July 2021.
 
-The preprint will soon be uploaded on [my ResearchGate](https://www.researchgate.net/profile/Gia_Quoc_Bao_Tran).
+The preprint will soon be uploaded on [my ResearchGate](https://www.researchgate.net/profile/Gia_Quoc_Bao_Tran). The project report is found [here](https://www.researchgate.net/publication/348182394_Automotive_Control_using_Surface_Electromyography).
 
 More updates will be added.
 
